@@ -5,9 +5,7 @@
     <classes>
       <class name="com.qa.Tests.LoginTest">
         <methods>
-          <include name="technologiesPageTest"/>
           <include name="sapPageTest"/>
-          <include name="aboutusPageTest"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
